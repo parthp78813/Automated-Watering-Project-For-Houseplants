@@ -1,4 +1,3 @@
-
 MainMinorFile.java does the following: 
 * Main class for initializing and running the water pumping system.
 * It configures the hardware connections for the soil moisture sensor, water pump, LED, and OLED display.
